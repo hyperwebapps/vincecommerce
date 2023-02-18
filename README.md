@@ -2,6 +2,8 @@
 
 I am a full stack web developer, with great experience in Typescript and Java.
 
+<img src="https://i.ibb.co/7SYXJb4/Agency-Done4you.png" width="70%" height="70%">
+
 ## Projects I worked on
 
 - API from scratch Java(Dropwizard, Hibernate)
